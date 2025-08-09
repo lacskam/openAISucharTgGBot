@@ -9,7 +9,7 @@
 #include <QList>
 #include<QDate>
 #include<cstring>
-#define TOKEN "5999136133:AAGXdYzOgqgxY6ij8ZNv4lSUcrHXvtzxtoU"
+#define TOKEN "token"
 DB dbase;
 Telegram::Bot *bot;
 int date = QDate::currentDate().day();
